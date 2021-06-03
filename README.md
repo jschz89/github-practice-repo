@@ -4,7 +4,7 @@
 
 **install node.js and npm:**
 https://nodejs.org/es/download/
-once installed, confirm it is successfully installed by using this in command line: node -v
+once installed, confirm it is successfully installed by typing this in command line: node -v
 
 **install git locally:**
 https://git-scm.com/download/win
