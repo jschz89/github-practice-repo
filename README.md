@@ -17,7 +17,7 @@ initiate git:
 
 git init
 
-clone remote repo to this local file:
+clone remote repo to the local file:
 
 git clone https://github.com/Olavarry/github-practice-repo.git
 
