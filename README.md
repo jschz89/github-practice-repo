@@ -41,9 +41,12 @@ npm run cypress:open
 
 **How to create feature branch:**
 
-git checkout -b feature/{NameofYourbanch}
+git checkout -b {NameofYourbanch}
+
+i.e git checkout -b feature/add-new-test-for-home-page
 
 **How to change to master/feature branch**
 
 git checkout master
-git checkout {NameOfYourFeatureBranch}
+
+git checkout feature/add-new-test-for-home-page
