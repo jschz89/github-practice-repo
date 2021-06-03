@@ -1,0 +1,15 @@
+{
+  "name": "github-practice-project",
+  "version": "1.0.0",
+  "description": "practice for github",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "cy:test"
+  },
+  "author": "Luis Olavarria",
+  "license": "ISC"
+}
