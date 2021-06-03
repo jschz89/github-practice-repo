@@ -19,7 +19,7 @@ git init
 
 clone remote repo to this local file:
 
-https://github.com/Olavarry/github-practice-repo.git
+git clone https://github.com/Olavarry/github-practice-repo.git
 
 install dev dependencies:
 
@@ -31,12 +31,13 @@ open cypress:
 
 npm run cypress:open
       
-you should be able to select test to run.
-      
-**How to run test from command line:**
- 
-TBD - not needed
+you should be able to select test to run in cypress GUI
 
 **How to create feature branch:**
 
 git checkout -b feature/{NameofYourbanch}
+
+**How to change to master/feature branch**
+
+git checkout master
+git checkout {NameOfYourFeatureBranch}
