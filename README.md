@@ -23,7 +23,8 @@ git clone https://github.com/Olavarry/github-practice-repo.git
 
 -Set your git hub account:
 
-git config --global user.email {yourEmailassociatedToGitHub} 
+git config --global user.email {yourEmailassociatedToGitHub}
+
 git config --global user.name {yourName}
 
 -install dev dependencies:
