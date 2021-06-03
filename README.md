@@ -13,30 +13,30 @@ create new folder locally with any name you want (i.e github-practice-project)
 
 **open cmd and navigate to newly created folder**
 
-initiate git:
+-initiate git:
 
 git init
 
-clone remote repo to the local file:
+-clone remote repo to the local file:
 
 git clone https://github.com/Olavarry/github-practice-repo.git
 
-Set your git hub account:
+-Set your git hub account:
 
 git config --global user.email {yourEmailassociatedToGitHub} 
 git config --global user.name {yourName}
 
-install dev dependencies:
+-install dev dependencies:
 
 npm install
 
-verify "node modules" folder should be added to the project.
+-verify "node modules" folder should be added to the project.
 
-open cypress:
+-open cypress:
 
 npm run cypress:open
       
-you should be able to select test to run in cypress GUI
+-you should be able to select test to run in cypress GUI
 
 **How to create feature branch:**
 
