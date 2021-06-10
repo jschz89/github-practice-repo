@@ -45,6 +45,10 @@ git checkout -b {NameofYourbanch}
 
 i.e git checkout -b feature/add-new-test-for-home-page
 
+**How to publish new branch to remote**
+
+$ git push -u <remote> <branch-name>
+
 **How to change to master/feature branch**
 
 git checkout master
